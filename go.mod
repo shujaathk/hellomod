@@ -1,3 +1,3 @@
-module github.com/shujaathk/hellomod
+module github.com/shujaathk/hellomodule
 
 go 1.19
