@@ -9,5 +9,5 @@ func SayHello() {
 
 // Salut says `Hello Go!` in Romanian
 func Salut() {
-	fmt.Println("Salut Go!")
+	fmt.Println("Salut Go Blockhain B!")
 }
